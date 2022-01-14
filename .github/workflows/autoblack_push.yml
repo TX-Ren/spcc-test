@@ -1,7 +1,7 @@
 name: Black Check
 
 # Run action on PRs to master
-on:[push]
+on: [push]
 
 jobs:
   suggest:
