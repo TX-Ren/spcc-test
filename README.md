@@ -1,7 +1,7 @@
 
 # Welcome to SPCC
 
-![python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8%20|%203.9%20|%203.10-blue)
+![python](https://img.shields.io/badge/python-3.8%20|%203.9%20|%203.10-blue)
 
 # 文件结构
 - `setup.py`
@@ -13,10 +13,3 @@
 - `.github/workflow` ：工作流文件
   - `markdownlint.yml` ：markdown语法检查
   - `pylint.yml` ：python语法检查
-
-$$
-\alpha = 1+2
-$$
-
-$$
-\beta
