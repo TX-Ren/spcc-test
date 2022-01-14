@@ -1,3 +1,6 @@
+"""
+设置module
+"""
 from setuptools import setup
 setup(name='spcc',
       version='0.1',

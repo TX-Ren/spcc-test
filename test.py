@@ -1,3 +1,6 @@
+"""
+测试用代码
+"""
 import spcc.operations
 print('Adding:','1+1 = ',spcc.operations.add(1,1))
 print('Minus:','5-4 = ',spcc.operations.minus(5,4))
