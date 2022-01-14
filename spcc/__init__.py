@@ -5,4 +5,4 @@ def joke():
     """
     joke function
     """
-    return ('SJTU is the best!')
+    return 'SJTU is the best!'
