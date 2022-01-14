@@ -5,17 +5,17 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def add(aa,bb):
+def add(var1,var2):
     "add"
-    return aa+bb
+    return var1+var2
 
-def minus(aa,bb):
+def minus(var1,var2):
     "minus"
-    return aa-bb
+    return var1-var2
 
-def multiple(aa,bb):
+def multiple(var1,var2):
     "multiple"
-    return aa*bb
+    return var1*var2
 
 def scatterplot():
     "scatterplot"
