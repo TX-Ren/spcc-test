@@ -11,3 +11,12 @@
   - `operations.py`
 - `.gitignore` ：git忽略文件
 - `.github/workflow` ：工作流文件
+  - `markdownlint.yml` ：markdown语法检查
+  - `pylint.yml` ：python语法检查
+
+$$
+\alpha = 1+2
+$$
+
+$$
+\beta
