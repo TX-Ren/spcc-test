@@ -1,4 +1,6 @@
-## Some testing functions
+"""
+Some testing functions
+"""
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -17,3 +19,4 @@ def scatterplot():
     y = np.sin(x)
     plt.plot(x,y)
     plt.show()
+    
