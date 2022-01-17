@@ -8,10 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Markdown Lint
-        uses: ruzickap/action-my-markdown-linter@v1
 
-      - name: Markdown Lint docs
+      - name: Markdown Lint
         uses: ruzickap/action-my-markdown-linter@v1
         with:
           debug: true
@@ -19,6 +17,6 @@ jobs:
             my_exclude_dir/md_files/
             my_exclude_dir_2/markdown_files/
             CHANGELOG.md
-          search_paths: |
+          search_paths: | ## searching path(should be modified)
             docs/
 
