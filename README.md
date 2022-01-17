@@ -71,7 +71,7 @@ Welcome to SPCC
   ```
 
   - 如果没有特殊原因，不使用制表符（tab），不使用原始HTML代码。
-- Markdown编辑工具使用VisualStudio Code编辑器，[下载地址](https://code.visualstudio.com/download),安装以下插件：
+- Markdown编辑工具使用[VisualStudio Code编辑器](https://code.visualstudio.com/download),安装以下插件：
   - 预览工具：Markdown Preview Enhanced
   - 快捷操作：Markdown All in One
   - 格式检查：markdownlint
@@ -80,4 +80,4 @@ Welcome to SPCC
   - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)
   - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown)
   - [markdownlint](https://github.com/DavidAnson/vscode-markdownlint)
-- 所编写文档，应通过markdownlint的格式检查
+- 所编写文档，应通过[markdownlint](https://github.com/DavidAnson/vscode-markdownlint)的格式检查
