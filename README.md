@@ -14,7 +14,7 @@ Welcome to SPCC
     - `operations.py`
 - `docs` 算法文档
 - `tests` 单元测试
-- `.gitignore` 忽略文件
+- `.gitignore` git忽略文件
 - `.github/workflow` 工作流文件
   - `markdownlint.yml` markdown语法检查
   - `pylint.yml` python语法检查
